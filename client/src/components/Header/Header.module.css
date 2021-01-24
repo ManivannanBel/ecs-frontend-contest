@@ -1,0 +1,27 @@
+.appBar {
+  background-color: #f32559 !important;
+}
+
+.search {
+  position: relative;
+  border-radius: 5px;
+  margin-left: 20px;
+  background-color: #f35179;
+  width: 60%;
+}
+
+.searchIcon {
+  padding-left: 5px;
+  height: 100%;
+  position: absolute;
+  pointer-events: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchInput {
+  padding-left: 30px;
+  width: inherit;
+  color: #ffffff !important;
+}
